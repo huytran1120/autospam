@@ -1,0 +1,2 @@
+# autospam
+ ok
